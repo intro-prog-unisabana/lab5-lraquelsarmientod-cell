@@ -1,6 +1,5 @@
 import os
 import math
-# Imprimir directorio actual
 cwd = os.getcwd()
 print(f"Current working directory: {cwd}")
 num = int(input("Enter an integer: "))
